@@ -9,13 +9,13 @@ Avant de démarrer l'application, assurez-vous d'avoir installé Docker et qu'il
 Pour récupérer le projet en local, utilisez la commande suivante :
 
 ```sh
-git clone https://github.com/votre-utilisateur/tp-springboot-back.git
+git clone https://github.com/rboudia/TP-SpringBoot-Back.git
 ```
 
 Puis, accédez au dossier du projet :
 
 ```sh
-cd tp-springboot-back
+cd TP-SpringBoot-Back
 ```
 
 ## Démarrage de la base de données avec Docker
